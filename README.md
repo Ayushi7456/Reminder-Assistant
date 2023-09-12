@@ -58,3 +58,6 @@ Or, Open command propmt and change the directory to the project directory using 
 
   >>> reminder.py
 ```
+
+#### Help
+## <a href = "https://docs.python.org/3/"> Python Docs <a>
