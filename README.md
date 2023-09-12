@@ -60,4 +60,6 @@ Or, Open command propmt and change the directory to the project directory using 
 ```
 
 #### Help
-## <a href = "https://docs.python.org/3/"> Python Docs <a>
+## <a href = "https://docs.python.org/3/"> Python Docs <a> 
+## <a href = "chat.openai.com"> Take help - Chat GPT <a> 
+
